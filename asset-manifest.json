@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/keep_note_app/static/css/main.40b7312e.chunk.css",
-    "main.js": "/keep_note_app/static/js/main.bf1b1024.chunk.js",
-    "main.js.map": "/keep_note_app/static/js/main.bf1b1024.chunk.js.map",
+    "main.js": "/keep_note_app/static/js/main.7eb8e87c.chunk.js",
+    "main.js.map": "/keep_note_app/static/js/main.7eb8e87c.chunk.js.map",
     "runtime-main.js": "/keep_note_app/static/js/runtime-main.ff7cf122.js",
     "runtime-main.js.map": "/keep_note_app/static/js/runtime-main.ff7cf122.js.map",
     "static/js/2.56315bc1.chunk.js": "/keep_note_app/static/js/2.56315bc1.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ff7cf122.js",
     "static/js/2.56315bc1.chunk.js",
     "static/css/main.40b7312e.chunk.css",
-    "static/js/main.bf1b1024.chunk.js"
+    "static/js/main.7eb8e87c.chunk.js"
   ]
 }
